@@ -22,7 +22,8 @@ Equalize the grayscale image.
 Display the grayscale image.
 
 ## Program:
-``` Developed By: Gayathri A
+``` 
+Developed By: Gayathri A
 Register Number: 212221230028
 ```
 ```
@@ -95,6 +96,7 @@ cv2.destroyAllWindows()
 
 ![dip4 1](https://user-images.githubusercontent.com/94154854/230125834-07601aee-6f83-44e4-9ef1-2f18eca2ce69.png)
 
+
 ![dip4 2](https://user-images.githubusercontent.com/94154854/230125904-4ca5a851-ec42-4cc4-91bd-c213e33c302d.png)
 
 
@@ -110,6 +112,9 @@ cv2.destroyAllWindows()
 
 
 ### Histogram Equalization of Grayscale Image
+
+
+![Uploading dip4.5.png…]()
 
 
 
