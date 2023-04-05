@@ -113,6 +113,7 @@ cv2.destroyAllWindows()
 
 ### Histogram Equalization of Grayscale Image
 
+![output](dip4.5.png)
 
 
 
