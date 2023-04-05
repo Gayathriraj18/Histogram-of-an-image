@@ -114,8 +114,6 @@ cv2.destroyAllWindows()
 ### Histogram Equalization of Grayscale Image
 
 
-![Uploading dip4.5.png…]()
-
 
 
 ## Result: 
